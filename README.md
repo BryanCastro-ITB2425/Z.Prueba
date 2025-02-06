@@ -2,15 +2,14 @@ En esta parte de la práctica tenemos que explicar que hemos aprendido cada uno 
 En cada apartado, de manera individual, tenemos que indicar el nivel de aprendizaje sobre lo que hemos aprendido durante la practica en general.
 
 # Registro de aprendizaje de 
-
-## Qué es lo que he aprendido durante la práctica?
 ---
-- Treball en grup: he après a explicar les meves idees: **Bé**
+## Qué es lo que he aprendido durante la práctica?
+- Trabajo en grupo: he aprendido a explicar mis ideas: **Bién**
 
-- He entendido a subir los diferentes archivos al GitHub: **Força**
+- He entendido a subir los diferentes archivos al GitHub: **Algo**
 
-- He entès com crear una web i publicar-la: **Força**
+- He entès com crear una web i publicar-la: **Algo**
 
-- He intentat aprendre com obtenir les dades: **Força**
+- He intentat aprendre com obtenir les dades: **Algo**
 
-- He après com generar els diferents resultats: **Poc**
+- He après com generar els diferents resultats: **Poco**
